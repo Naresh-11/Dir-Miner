@@ -33,12 +33,19 @@ FUZZER is a simple Dir-Miner tool developed by Mr. ND. It helps you discover dir
 Use the following command-line arguments to run Dir-Miner:
 
 -u or --url: The target URL to search (required).
+
 -w or --wordlist: Wordlist file containing directories to check.
+
 -t or --timeout: Timeout for HTTP requests (default: 5.0 seconds).
+
 -ua or --user-agent: Custom User-Agent header for HTTP requests (default: DirectorySearchBot).
+
 -f or --follow-redirects: Follow HTTP redirects (optional).
+
 -v or --verbose: Enable verbose mode (optional).
+
 -o or --output: Output file to save results (optional).
+
 <br>
 Example usage:
 ```shell
@@ -47,8 +54,11 @@ python3 dirminer.py -u http://example.com // Auto
 ```
 ## Author
 [Mr. ND](https://github.com/Naresh-11)
+<br>
 [Facebook](https://www.facebook.com/nareshdhanuk0)
-License
+<br>
+## License
+
 This tool is licensed under the MIT License. See the LICENSE file for details.
 
 ## Support
