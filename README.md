@@ -1,6 +1,6 @@
 # Directory Search Tool (FUZZER)
 
-![FUZZER Logo](https://w7.pngwing.com/pngs/356/103/png-transparent-cloud-mining-bitcoin-computer-icons-cryptocurrency-mining-logo-industry-bitcoin-network.png)
+![FUZZER Logo](https://static.thenounproject.com/png/2221438-200.png)
 
 ## Introduction
 
