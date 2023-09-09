@@ -31,22 +31,15 @@ FUZZER is a simple Dir-Miner tool developed by Mr. ND. It helps you discover dir
 ## Usage
 
 Use the following command-line arguments to run Dir-Miner:
-
+```shell
 -u or --url: The target URL to search (required).
-
 -w or --wordlist: Wordlist file containing directories to check.
-
 -t or --timeout: Timeout for HTTP requests (default: 5.0 seconds).
-
 -ua or --user-agent: Custom User-Agent header for HTTP requests (default: DirectorySearchBot).
-
 -f or --follow-redirects: Follow HTTP redirects (optional).
-
 -v or --verbose: Enable verbose mode (optional).
-
 -o or --output: Output file to save results (optional).
-
-<br>
+```
 
 Example usage:
 ```shell
