@@ -1,0 +1,4 @@
+argparse==1.4.0
+colorama==0.4.4
+requests==2.26.0
+pyfiglet==0.8.post1
