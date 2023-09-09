@@ -47,6 +47,7 @@ Use the following command-line arguments to run Dir-Miner:
 -o or --output: Output file to save results (optional).
 
 <br>
+
 Example usage:
 ```shell
 python3 dirminer.py -u http://example.com -w wordlist.txt -o output.txt    // Custom
@@ -57,6 +58,7 @@ python3 dirminer.py -u http://example.com // Auto
 <br>
 [Facebook](https://www.facebook.com/nareshdhanuk0)
 <br>
+
 ## License
 
 This tool is licensed under the MIT License. See the LICENSE file for details.
