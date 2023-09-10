@@ -46,15 +46,15 @@ Example usage:
 python3 dirminer.py -u http://example.com -w wordlist.txt -o output.txt    // Custom
 python3 dirminer.py -u http://example.com // Auto
 ```
+
+[pic](Screenshot 2023-09-10 055714.png)
+
+
 ## Author
 [Mr. ND](https://github.com/Naresh-11)
 <br>
 [Facebook](https://www.facebook.com/nareshdhanuk0)
 <br>
-
-
-<img src=Screenshot 2023-09-10 055714.png>
-
 
 ## License
 
