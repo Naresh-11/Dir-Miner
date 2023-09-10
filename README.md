@@ -47,7 +47,7 @@ python3 dirminer.py -u http://example.com -w wordlist.txt -o output.txt    // Cu
 python3 dirminer.py -u http://example.com // Auto
 ```
 
-[pic](https://github.com/Naresh-11/Dir-Miner/blob/main/Screenshot%202023-09-10%20055714.png)
+![pic](https://github.com/Naresh-11/Dir-Miner/blob/main/Screenshot%202023-09-10%20055714.png)
 
 
 ## Author
