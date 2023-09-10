@@ -52,6 +52,10 @@ python3 dirminer.py -u http://example.com // Auto
 [Facebook](https://www.facebook.com/nareshdhanuk0)
 <br>
 
+
+<img src=Screenshot 2023-09-10 055714.png>
+
+
 ## License
 
 This tool is licensed under the MIT License. See the LICENSE file for details.
