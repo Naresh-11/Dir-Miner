@@ -27,8 +27,15 @@ def print_status_code(status_code):
         return colored(f"[{status_code}]", 'red', attrs=['bold'])
     elif status_code == 302:
         return colored(f"[{status_code}]", 'yellow', attrs=['bold'])
+    elif status_code == 500:
+        return colored(f"[{status_code}]", 'magenta', attrs=['bold'])
+    elif status_code == 403:
+        return colored(f"[{status_code}]", 'blue', attrs=['bold'])
+    elif status_code == 301
+        return colored(f"[{status_code}]", 'gold', attrs=['bold'])
     else:
         return colored(f"[{status_code}]", 'white', attrs=['bold'])
+
 
 def print_welcome_message():
     welcome_text = pyfiglet.figlet_format("FUZZER", font="block")
